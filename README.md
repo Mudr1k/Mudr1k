@@ -1,4 +1,4 @@
-### Hi there 👋
+https://github.com/Mudr1k/CV
 
 <!--
 **Mudr1k/Mudr1k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
